@@ -4,12 +4,17 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_0 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 ### Categories
+* [Unix](#unix)
 
 ---
+### Unix
+
+- [Grep only specific files](unix/grep-only-specific-files.md)
+
 ## Usage
 To auto-generate[1] the README.md file, you can run
     ./createReadme.py > README.md
