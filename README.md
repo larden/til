@@ -4,7 +4,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 ### Categories
@@ -13,6 +13,7 @@ _1 TILs and counting..._
 ---
 ### Unix
 
+- [Check/Set sys-root directory for cross compiler](unix/cross-compiler-sys-root.md)
 - [Grep only specific files](unix/grep-only-specific-files.md)
 
 ## Usage
