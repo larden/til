@@ -18,7 +18,7 @@ warrant a full blog post.
 '''
 
 FOOTER = '''## Usage
-To auto-generate[^](##about "Go to About") the README.md file, you can run
+To auto-generate[^1] the README.md file, you can run
 ```
     ./createReadme.py > README.md
 ```
@@ -33,7 +33,7 @@ I shamelessly stole this idea from:
  * [thoughtbot/til](https://github.com/thoughtbot/til)
  * [til-collective/til-collective](https://github.com/til-collective/til-collective)
 
-CreateReadme has been copied from [pull request](https://github.com/til-collective/til-collective/pull/6)
+[^1]: CreateReadme has been copied from [pull request](https://github.com/til-collective/til-collective/pull/6)
 '''
 
 
