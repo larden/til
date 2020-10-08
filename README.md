@@ -4,7 +4,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 ### Categories
@@ -15,6 +15,7 @@ _2 TILs and counting..._
 
 - [Check/Set sys-root directory for cross compiler](unix/cross-compiler-sys-root.md)
 - [Grep only specific files](unix/grep-only-specific-files.md)
+- [How to generates preprocessor output with GCC](unix/gcc-preprocesor-output.md)
 
 ## Usage
 To auto-generate[^1] the README.md file, you can run
